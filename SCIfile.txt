@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 derwishe2000@hotmail.com
 -1
 Lucyxerza3
+=======
+
+-1
+
+>>>>>>> origin/master
 True
